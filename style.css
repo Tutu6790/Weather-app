@@ -10,7 +10,11 @@ body {
     background-size: cover;
     background-position: top center;
 }
-
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 32px;
+}
 .app-wrap {
     display: flex;
     flex-direction: column;
